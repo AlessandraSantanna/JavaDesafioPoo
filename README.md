@@ -6,7 +6,12 @@ Neste repositório, você encontrará uma implementação abrangente de um desaf
 e precisa as funcionalidades de um iPhone. Este projeto utiliza princípios de programação orientados a objetos e técnicas de modelagem UML para criar
 uma estrutura robusta e versátil que permite que um dispositivo iPhone desempenhe os três papéis distintos e cruciais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
- ![imagem](https://www.mermaidchart.com/raw/bb6f398f-49db-467d-8d6b-79ef68dda406?theme=light&version=v0.1&format=svg)
+
+## 📊 Diagrama UML
+
+![Diagramação das Classes](diagramação-das-classes.png)
+
+
 
 - iPhone
  
@@ -27,3 +32,9 @@ Uma interface NavegadorInternetdefine métodos para a navegação na web, como e
 Cada classe ou interface desempenha um papel específico no sistema e contribui para as características do dispositivo iPhone, tornando-o capaz de realizar uma variedade de funções.
 
 Se você deseja explorar mais detalhes do diagrama de classes clique aqui para ser redirecionado ao arquivo PDF correspondente.
+
+## 💡 Resumo do projeto
+
+Este repositório foi uma fonte de habilidades de aprendizado para mim, em busca de aprofundar seus conhecimentos em modelagem de software, programação orientada a objetos e design de sistemas de software complexos.
+
+
